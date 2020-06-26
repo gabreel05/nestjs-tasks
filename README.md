@@ -13,11 +13,11 @@
 ## 📜 Features
 
 <ul>
-  <li>Add task/li>
-  <li>List tasks/li>
-  <li>List one task/li>
-  <li>Update one task/li>
-  <li>Delete one task/li>
+  <li>Add task</li>
+  <li>List tasks</li>
+  <li>List one task</li>
+  <li>Update one task</li>
+  <li>Delete one task</li>
 </ul>
 
 ## 🧰 Techs
@@ -27,7 +27,6 @@
 - 💹 **Node.js** — A JavaScript runtime built on Chrome's V8
 - 💼 **NestJS** — a framework for building efficient, scalable Node.js web applications
 - 🔷 **Typescript** — A typed superset of JavaScript that compiles to plain JavaScript
-- 📄 **Knex** — A SQL query builder for a lot of SQL databases
 
 ## 💻 Getting started
 
