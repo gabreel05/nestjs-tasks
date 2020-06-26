@@ -48,7 +48,7 @@
 1. Clone this repo using <code>https://github.com/gabreel05/nestjs-tasks.git</code>
 2. Move to the appropiate directory: <code>cd backend</code>
 3. Run <code>yarn</code> or <code>npm install</code> to install the dependencies
-6. Run <code>yarn dev</code> or <code>npm run dev</code> to start the server
+6. Run <code>yarn start:dev</code> or <code>npm start:dev</code> to start the server
 
 ## 🤓 How to contribute
 
